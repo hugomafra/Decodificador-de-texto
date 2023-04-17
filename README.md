@@ -34,3 +34,5 @@ Design responsivo em qualquer dimensão
 - Clicando na logo da aplicação é possível alternar os modos de criptografia "alura" e "cesar", permitindo que o usuario escolha entre usar o método de criptografia da alura ou o método de criptografia da cifra de césar.
 
 Modelo disponibilizado pela oralce : (https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=0-1&t=WEYfHcWL02hoHkvD-0)
+![decodificador_de_texto](https://user-images.githubusercontent.com/114294017/232635046-9d1b78e2-431b-4330-81d4-520946e0e1b7.png)
+
