@@ -1,4 +1,4 @@
-#Decodificador de Texto - Oracle + Alura
+# Decodificador de Texto - Oracle + Alura
 
 As "chaves" de criptografia que utilizaremos são:
 A letra "e" é convertida para "enter"
